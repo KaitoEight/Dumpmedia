@@ -16,7 +16,7 @@ export default function AuthLayout() {
           </section>
 
           <img
-            src="/assets/images/side-img.svg"
+            src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/409760924_1128447741850693_4498296902829678891_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=g6kjPEHMUF8AX-vkac1&_nc_ht=scontent.fsgn2-3.fna&oh=00_AfAhYe56aiBrzF3sVQ-j4O4WVZ_if000k49NZiHimLR4WA&oe=658BE23C"
             alt="logo"
             className="hidden xl:block h-screen w-1/2 object-cover bg-no-repeat"
           />
